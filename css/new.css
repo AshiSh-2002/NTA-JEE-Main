@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: white;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    background-color:rgb(168, 20, 77);
+    border: 1px solid blue;
+    height: 38px;
+}
+.container{
+    background-color: rgb(68, 56, 56);
+    height: 43vh;
+}
+.cont{
+    background-color: black;
+    height: 37vh;
+    width: 1400px;
+    position: relative;
+    left: 221px;
+    top: 24px;
+}
+.cent{
+    background-color: rgb(59, 50, 50);
+    width: 1272px;
+    height: 23vh;
+    position: relative;
+    left: 60px;
+    top: 88px;
+}
+.link1{
+    width: 653px;
+    height: 30px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    position: relative;
+    left: 268px;
+    top: 67px;
+    color: white;
+}
+.link2{
+    width: 653px;
+    height: 30px;
+    background-color: rgb(55, 174, 179);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    position: relative;
+    left: 268px;
+    top: 80px;
+    color: white;
+}
+.link3{
+    width: 653px;
+    height: 30px;
+    background-color: rgb(26, 83, 148);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    position: relative;
+    left: 268px;
+    top: 93px;
+    color: white;
+}
+.head{
+    background-color: red;
+    color: white;
+    width: 700px;
+    height: 43px;
+    position: relative;
+    left: 35px;
+    top: -17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.jk{
+    position: relative;
+    top:-48px;
+}
+.box2{
+    background-color:rgb(168, 20, 77);
+    border: 1px solid blue;
+    height: 38px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: rgb(41, 34, 34);
+}
